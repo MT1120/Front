@@ -29,11 +29,11 @@ export default function Home() {
                 <tbody>
                     <tr>
                         <td>Carlos</td>
-                        <td>Carlos</td>
-                        <td>Carlos</td>
-                        <td>Carlos</td>
-                        <td>Carlos</td>
-                        <td>Carlos</td>
+                        <td>Carlos@email.com</td>
+                        <td>2131315</td>
+                        <td>64</td>
+                        <td>11/04/1999</td>
+                        <td>Masculino</td>
                         <td className='d-flex align-items-center justify-content-evenly'>
                             <button className="btn btn-danger btn-sm" onClick={handleNavigate}>
                                 <FaUser/>
@@ -45,11 +45,11 @@ export default function Home() {
                     </tr>
                     <tr>
                         <td>Carlos</td>
-                        <td>Carlos</td>
-                        <td>Carlos</td>
-                        <td>Carlos</td>
-                        <td>Carlos</td>
-                        <td>Carlos</td>
+                        <td>Carlos@email.com</td>
+                        <td>2131315</td>
+                        <td>64</td>
+                        <td>11/04/1999</td>
+                        <td>Masculino</td>
                         <td className='d-flex align-items-center justify-content-evenly'>
                             <button className="btn btn-danger btn-sm" onClick={handleNavigate}>
                                 <FaUser/>
@@ -61,11 +61,11 @@ export default function Home() {
                     </tr>
                     <tr>
                         <td>Carlos</td>
-                        <td>Carlos</td>
-                        <td>Carlos</td>
-                        <td>Carlos</td>
-                        <td>Carlos</td>
-                        <td>Carlos</td>
+                        <td>Carlos@email.com</td>
+                        <td>2131315</td>
+                        <td>64</td>
+                        <td>11/04/1999</td>
+                        <td>Masculino</td>
                         <td className='d-flex align-items-center justify-content-evenly'>
                             <button className="btn btn-danger btn-sm" onClick={handleNavigate}>
                                 <FaUser/>
