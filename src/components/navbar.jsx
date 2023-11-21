@@ -10,6 +10,10 @@ export default function Navbar() {
     const handleNavigate = (event) => {
         navigate('/addP')
     }
+
+    const handleNavigateLog = (event) => {
+        navigate('/Log')
+    }
     return (
         <nav className="navbar navbar-expand-lg bg-secondary mb-4   p-0">
             <div className="container-fluid">
@@ -31,6 +35,16 @@ export default function Navbar() {
                                 </button>
                             
                         </li>
+
+                        <li class="nav-item">
+                                
+                                <button className='btn text-white fs-5' onClick={handleNavigateLog}>
+    
+                                    Log
+                                </button>
+                            
+                        </li>
+
                     </ul>
                 </div>
                 <form class="d-flex" role="search">

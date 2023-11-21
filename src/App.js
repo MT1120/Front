@@ -6,6 +6,7 @@ import Navbar from "./components/navbar";
 import Home from "./components/home";
 import AddP from "./components/addP";
 import Card from "./components/cardP";
+import Log from "./components/Log";
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
               <Route path="/" element={<Home />} />
               <Route path="/addP" element={<AddP />} />
               <Route path="/cardP" element={<Card />} />
+              <Route path="/Log" element={<Log />} />
               
               {/* <Route path="*" element={<NotFound />} />
               <Route path="/projects/:id" element={<Project />} /> */}

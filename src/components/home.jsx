@@ -92,7 +92,7 @@ export default function Home() {
                         </td>
                     </tr>
                 </tbody>
-                </table>
+            </table>
         </div>
     )
 }

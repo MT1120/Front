@@ -54,6 +54,11 @@ export default function addP() {
           </select>
         </div>
 
+        <div class = "col-md-6 mt-5">
+          
+          <input class="form-control" type="file" id="formFile"/>
+        </div>
+
         <div class="d-grid gap-2 mt-5">
           <button type="submit" class="btn btn-primary">Crear</button>
         </div>
